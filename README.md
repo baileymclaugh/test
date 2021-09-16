@@ -1,2 +1,2 @@
-# test
-This is a test
+# this is just a test
+This repo is being used to learn about github
